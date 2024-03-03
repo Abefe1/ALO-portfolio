@@ -1,4 +1,2 @@
 # Personal-Portfolio
-# ALO-portfolio
-# ALO-portfolio
-# ALO-portfolio
+# ALO(Akingbaded Lukmon Olanrewaju)-portfolio 
