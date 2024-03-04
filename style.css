@@ -499,6 +499,19 @@ footer .footer{
         width: 80vw;
     
     }
+
+    header{
+        margin-bottom: 2rem;
+    }
+    
+    section{
+        margin-bottom: 2rem;
+    }
+    
+    .qoute{
+        margin-left: 0.15rem;
+        margin-right: 0.1rem;
+    }
 }
     
    
