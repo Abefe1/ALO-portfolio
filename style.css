@@ -549,5 +549,13 @@ div .abt-mini-container{
     width: 75vw;
 }
 
+header{
+    margin-bottom: 2rem;
+}
+
+section{
+    margin-bottom: 2rem;
+}
+
 }
 
