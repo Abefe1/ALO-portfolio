@@ -509,8 +509,19 @@ footer .footer{
     }
     
     .qoute{
-        margin-bottom: 0.15rem;
+        margin-left: 0.15rem;
+        margin-right: 0.1rem;
+    
     }
+    
+    .contact-details{
+        margin-bottom: 1rem;
+    }
+    
+    footer{
+        margin-top: 0.5rem;
+    }
+    
 }
     
    
@@ -570,8 +581,17 @@ section{
 }
 
 .qoute{
-    margin-bottom: 0.15rem;
+    margin-left: 0.15rem;
+    margin-right: 0.1rem;
+
 }
 
+.contact-details{
+    margin-bottom: 1rem;
+}
+
+footer{
+    margin-top: 0.5rem;
+}
 }
 
