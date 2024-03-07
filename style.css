@@ -45,7 +45,6 @@ nav {
     box-shadow: 0 3px 5px #32B4FF;
     width: 100%;
     
-     
 }
 nav h1 {
     color: rgba(18, 105, 204, 0.877);
@@ -202,9 +201,15 @@ hr.color{
     min-height: 80vh;
 }
 
+.p-text{
+    height: 55%;
+}
+.p-image{
+    height: 45%;
+}
 .project-pic {
     width: 100%;
-    height: 30%;
+    height: 100%;
     border-radius: 0.8rem;
 }
 
@@ -271,7 +276,8 @@ hr.color{
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin-top: 0.5rem;
+    /* margin-top: 2rem; */
+    /* padding-bottom: 2rem; */
 }
 
 .project-image img{
@@ -288,7 +294,8 @@ hr.color{
 
 .project-display{
     /* background-color: aquamarine; */
-    height: 90%;
+    height: 85%;
+    margin-bottom: 2rem;
 }
 
 .contact-container{
